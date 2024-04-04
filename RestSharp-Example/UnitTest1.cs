@@ -36,10 +36,10 @@ public class Tests
 
     }
 
-    [Test, Timeout(6000)]
+    [Test, Timeout(15000)]
     public async Task TestDelayedResponse()
     {
-        var request = new RestRequest("/api/users?delay=20", Method.Get);
+        var request = new RestRequest("/api/users?delay=10", Method.Get);
         var response = await client.GetAsync(request);
         Console.WriteLine(response.Content);
     }

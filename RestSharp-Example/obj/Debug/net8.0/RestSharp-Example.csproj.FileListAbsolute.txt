@@ -97,3 +97,4 @@
 /Users/gurudattsa/RiderProjects/RestSharp-Example/RestSharp-Example/obj/Debug/net8.0/RestSharp-Example.pdb
 /Users/gurudattsa/RiderProjects/RestSharp-Example/RestSharp-Example/obj/Debug/net8.0/RestSharp-Example.genruntimeconfig.cache
 /Users/gurudattsa/RiderProjects/RestSharp-Example/RestSharp-Example/obj/Debug/net8.0/ref/RestSharp-Example.dll
+/Users/gurudattsa/RiderProjects/RestSharp-Example/RestSharp-Example/obj/Debug/net8.0/RestSharp-Example.sourcelink.json
