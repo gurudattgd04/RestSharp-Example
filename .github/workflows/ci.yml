@@ -22,7 +22,7 @@ jobs:
      run: dotnet restore
 
    - name: build
-     run: dotnent build
+     run: dotnet build
 
    - name: run tests
      run: dotnet test --no-restore --verbosity normal
