@@ -1243,7 +1243,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/Users/gurudattsa/.dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/8.0.3/libexec/sdk/8.0.103/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
